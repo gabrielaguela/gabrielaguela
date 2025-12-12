@@ -34,6 +34,7 @@ Instead of public code, I offer a track record of **Stability and Scale** in the
 ---
 
 📫 **How to reach me:**
+* **Email:** gabriela.guel@gmail.com
 * **LinkedIn:** [linkedin.com/in/gabrielaguel-alvarado](https://www.linkedin.com/in/gabrielaguel-alvarado/)
 * **Focus:** I am currently seeking **B2B / Contractor** roles (Remote) in Europe & Australia.
 
