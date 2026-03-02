@@ -26,16 +26,17 @@ Instead of public code, I offer a track record of **Stability and Scale** in the
 * **Infrastructure:** Direct administration of 12+ Linux/Windows servers (On-Premise).
 
 ### Tech Stack
-* **Backend:** PHP 8, Laravel, C# .NET
-* **Databases:** MySQL, Microsoft SQL Server (Optimization & Stored Procedures)
+* **Backend & logic:** PHP 8, Laravel, C# .NET, Python (Automation & Data Pipelines).
+* **Frontend & Scripting:** JavaScript (ES6+), React, HTML5/CSS3.
+* **Databases:** MySQL, Microsoft SQL Server (Optimization & Stored Procedures), MariaDB.
 * **Infrastructure:** Linux (CentOS/Ubuntu), Windows Server, Apache/Nginx
-* **Architecture:** Monolithic (for cost-efficiency), REST/SOAP APIs, Queues & Jobs
+* **Architecture:** Monolithic & Distributed Systems, REST/SOAP APIs, Queues & Jobs.
 
 ---
 
 **How to reach me:**
 * **Email:** gabriela.guel@gmail.com
 * **LinkedIn:** [linkedin.com/in/gabrielaguel-alvarado](https://www.linkedin.com/in/gabrielaguel-alvarado/)
-* **Focus:** I am currently seeking **B2B / Contractor** roles (Remote) in Europe, Australia and USA.
+* **Focus:** I am currently seeking Senior Lead Software Engineering roles in high-impact environments (Fintech, GovTech, or Enterprise Scale). I specialize in bridging the gap between legacy stability and modern cloud-ready innovation.
 
 > *"I don't just write code; I engineer stability for the public sector."*
